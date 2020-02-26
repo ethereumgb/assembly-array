@@ -1,6 +1,6 @@
 # assembly-array
 
-Following the steps to complete this exercise:
+Follow the steps to complete this exercise:
 
 1. clone this project
 2. add the following contract to the project
